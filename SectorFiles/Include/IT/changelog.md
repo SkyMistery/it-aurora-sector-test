@@ -12,6 +12,7 @@
 -Revisione TSA626 Carloforte
 *Correzioni errori vari sul sector
 *Simboli: AC_comb SEL e AC_DUPE col // davanti al nome
+*ATIS: tolta la «]» in più del modello default.atis
 
 **LIBB Brindisi
 *NIL
