@@ -12,6 +12,7 @@
 -Revisione TSA626 Carloforte
 *Correzioni errori vari sul sector
 *Simboli: AC_comb SEL e AC_DUPE col // davanti al nome
+*corretta l'attesa in rotta HLD-EKLAP (il fix EKLAP la citava come HLD-ELKAP)
 
 **LIBB Brindisi
 *NIL
