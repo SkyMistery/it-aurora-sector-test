@@ -11,6 +11,7 @@
 -Revisione della rotta T334
 -Revisione TSA626 Carloforte
 *Correzioni errori vari sul sector
+*Simboli: AC_comb SEL e AC_DUPE col // davanti al nome
 
 **LIBB Brindisi
 *NIL
