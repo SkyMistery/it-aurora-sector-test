@@ -13,6 +13,7 @@
 *Correzioni errori vari sul sector
 *Simboli: AC_comb SEL e AC_DUPE col // davanti al nome
 *ATIS: tolta la «]» in più del modello default.atis
+*corretta l'attesa in rotta HLD-EKLAP (il fix EKLAP la citava come HLD-ELKAP)
 
 **LIBB Brindisi
 *LIBN: NOVOLI, GALLIPOLI e PORTO CESAREO portati sul loro fix nascosto
